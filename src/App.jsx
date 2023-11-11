@@ -12,7 +12,7 @@ const App = () => (
     <Creator
       custom="custom prop from App"
     >
-      <p>a &lt;p&gt; element passed as "children from App</p>
+      <p>a &lt;p&gt; element passed as "children" from App</p>
     </Creator>
     <Consumer/>
   </CustomProvider>
